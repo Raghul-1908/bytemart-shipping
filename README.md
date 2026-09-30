@@ -12,7 +12,7 @@ Small helper notes for the ByteMart delivery checker (college project).
 
 Nothing to install. The delivery checker is a static page hosted with the main site:
 
-https://YOUR-SITE.vercel.app/delivery-check
+https://byte-mart-rho.vercel.app/delivery-check
 
 ## Notes
 
